@@ -69,7 +69,7 @@ img {
 }
 
 img:hover {
-    width: 550px;
-    height: 550px;
+    width: 420px;
+    height: 420px;
     border: 1px solid chocolate;
 }
